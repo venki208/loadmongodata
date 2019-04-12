@@ -1,0 +1,32 @@
+{
+    "table_name": "<Table Name>",
+    "data": [
+        {
+            "<column1>": "<data>",
+            "<column2>": "<data>",
+            "<column3>": "<data>
+        },
+        {
+            "<column1>": "<data>",
+            "<column2>": "<data>",
+            "<column3>": "<data>
+        },
+        {
+            "<column1>": "<data>",
+            "<column2>": "<data>",
+            "<column3>": "<data>
+        },
+        {
+            "<column1>": "<data>",
+            "<column2>": "<data>",
+            "<column3>": "<data>
+        },
+        {
+            "<column1>": "<data>",
+            "<column2>": "<data>",
+            "<column3>": "<data>
+        },
+        .....
+
+    ]
+}
